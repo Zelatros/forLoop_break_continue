@@ -1,0 +1,1 @@
+# Döngüler (For Döngüsü, break, continue) (www.patika.dev)
